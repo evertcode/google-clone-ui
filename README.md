@@ -2,6 +2,9 @@
 
 Google Clone UI build with React JS and Tailwind CSS
 
+![Google Clone UI](https://user-images.githubusercontent.com/3246481/136883650-61880719-74bf-4f2b-90b5-70dc0cf7a40b.png)
+
+
 ## Getting Started
 
 Install the dependencies:
